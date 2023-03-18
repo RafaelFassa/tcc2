@@ -11,9 +11,9 @@ body {
 }
 
 .img-banner {
-    height: 42rem;
-    min-height: 42rem;
-    max-height: 42rem;
+    height: 50rem;
+    min-height: 50rem;
+    max-height: 50rem;
     width: 100%;
     object-fit: cover;
 }
